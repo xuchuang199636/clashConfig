@@ -42,4 +42,4 @@ DOMAIN-SUFFIX,pan666.net
 DOMAIN-SUFFIX,gitlab-static.net
 DOMAIN-SUFFIX,gitlab.net
 DOMAIN-SUFFIX,tampermonkey.net
-DOMAIN-SUFFIX,diigo.com
+#DOMAIN-SUFFIX,diigo.com
